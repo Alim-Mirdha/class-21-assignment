@@ -55,10 +55,50 @@ img{
 /* ***********CONTACT AREA start HERE*********** */
 
 .contact-info {
-    padding: 84px 0 53px;
+    padding: 85px 0 54px;
 }
 .tabel-area h3 {
     font-weight: 400;
     font-size: 21px;
+    margin-bottom: 20px;
+}
+
+.oure-form h3 {
+    font-weight: 400;
+    font-size: 21px;
+    margin-bottom: 20px;
+}
+.tabel-area {
+    margin-right: 48px;
 }
 /* ***********CONTACT AREA END HERE*********** */
+/* ***********CARD AREA START HERE*********** */
+
+.padding {
+    padding: 15px;
+    box-sizing: border-box;
+}
+.padding h6 {
+    font-size: 19px;
+    font-weight: 400;
+}
+.card-tem1 .card-header h4,.protfoli-card h4 {
+    font-weight: 400;
+}
+.card-tem1 h4 {
+    font-weight: 400;
+}
+.truncate-text h4 {
+    font-weight: 400;
+}
+.progress-area,
+.truncate-text,
+.item-alert{
+    margin-top: 43px;
+}
+/* ***********CARD AREA END HERE*********** */
+.card-tem1 .card-header h4, .protfoli-card h4 {
+    font-weight: 400;
+    font-size: 29px;
+    margin: 0;
+}
