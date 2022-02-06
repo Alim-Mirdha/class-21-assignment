@@ -30,6 +30,9 @@ img{
     position: relative;
     z-index: 1;
 }
+section.banner-area h5 {
+    font-size: 30px;
+}
 .banner-area .carousel-caption {
     z-index: 1;
     margin-bottom: 301px;
